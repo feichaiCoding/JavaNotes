@@ -15,7 +15,7 @@ This is my note in the process of learning Java.
 
 | 分类 | 详细目录地址                                                    | 
 | ---- | ---------------------------------------------------------- | 
-| 1 - 基础    | []() |
+| 1 - 基础    | [Java基础笔记入口](https://github.com/feichaiCoding/JavaNotes-JavaBase) |
 | 2 - 算法 & 数据结构    | []() |
 | 3 - JVM & 多线程    | []() |
 | 4 - JavaWeb & 网络    | []() |
