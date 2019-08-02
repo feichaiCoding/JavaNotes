@@ -2,8 +2,8 @@
 This is my note in the process of learning Java.
 
 #### 运行环境
-语言：Java
-JDK：1.8
+ - 语言：Java
+ - JDK：1.8
 
 #### 声明：
 1、该笔记是我在学习Java过程中从总结筛选下来的，故里面有些内容来自于各种书籍、博客、公众号以及其他的一些地方，一些相关的引用已不可考
